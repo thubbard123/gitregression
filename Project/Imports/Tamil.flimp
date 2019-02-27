@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2019-02-27T08:02:49.7912283-08:00"
+  ProjectName="GitRegression"
+  ProjectFolder="C:\Users\thubbard\Desktop\DELETE\GitRegression\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2019-02-27T08:07:10.1396414-08:00">
+  <Files>
+    <Url
+      Source="../../../../../Documents/Tamil.docx"
+      AbsoluteSource="file:///C:/Users/thubbard/Documents/Tamil.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Tamil/Tamil.png"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Tamil/Tamil_1.png"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Tamil/Tamil_2.png"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Tamil/Tamil_3.png"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Tamil/Tamil.htm"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Tamil/REGRESS TEST.png"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Tamil/REGRESS TEST.htm"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../TOCs/Tamil.fltoc"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Tamil.css"
+      TimeStamp="2/27/2019 8:07:08 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>
