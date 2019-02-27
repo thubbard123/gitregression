@@ -3,13 +3,13 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%] "
-    Link="/Content/A-Introduction-Topics/Getting-Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    Link="/Content/A-Introduction-Topics/GS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A-Introduction-Topics/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/A-Introduction-Topics/WN.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A-Introduction-Topics/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Link="/Content/A-Introduction-Topics/MI.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
