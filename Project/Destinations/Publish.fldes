@@ -16,4 +16,5 @@
   RemoteRepository="origin"
   SftpServerValidation="validation-none"
   SftpAuthentication="authentication-password"
-  RemoveStale="false"></CatapultDestination>
+  RemoveStale="true"
+  ChangedOnly="false"></CatapultDestination>

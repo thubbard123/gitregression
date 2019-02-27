@@ -2,8 +2,7 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%] "
-    Link="/Content/A-Introduction-Topics/GS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    Title="[%=System.LinkedTitle%] " xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A-Introduction-Topics/WN.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
