@@ -1,0 +1,110 @@
+/*<meta sourceDocument="C:\Users\thubbard\Documents\Tamil.docx" />*/
+
+p
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+p.p_1
+{
+	font-weight: bold;
+	font-size: 14pt;
+	text-decoration: underline;
+}
+
+p.p_2
+{
+	color: #FF0000;
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+
+span.span_1
+{
+	color: #00B050;
+}
+
+li.ListParagraph
+{
+	margin-bottom: 10pt;
+	font-size: 11pt;
+	margin-left: 36pt;
+	font-family: Calibri;
+}
+
+p.p_3
+{
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+p.p_4
+{
+	text-decoration: underline;
+}
+
+ul.ul_1
+{
+	list-style-type: square;
+	margin-left: 36pt;
+}
+
+li.ListParagraph_1
+{
+	margin-bottom: 10pt;
+	font-size: 11pt;
+	margin-left: 36pt;
+	font-family: Calibri;
+	list-style-type: circle;
+}
+
+ul.ul_2
+{
+	list-style-type: circle;
+	margin-left: 72pt;
+}
+
+span.span_2
+{
+	color: #FF0000;
+}
+
