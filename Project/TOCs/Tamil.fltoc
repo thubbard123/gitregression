@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1" sourceDocument="C:\Users\thubbard\Documents\Tamil.docx">
-    <TocEntry Title="Tamil" Link="/Content/Tamil/Tamil.htm" />
-    <TocEntry Title="REGRESS TEST" Link="/Content/Tamil/REGRESS TEST.htm" />
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thubbard\Documents\Tamil.docx">
+  <TocEntry
+    Title="Tamil" />
+  <TocEntry
+    Title="REGRESS TEST" />
 </CatapultToc>
