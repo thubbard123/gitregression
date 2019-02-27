@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
-  DefaultUrl="/Content/Startpage/Homepage.htm"
+  DefaultUrl="/Content/Homepage.htm"
   ShowMadCapBacklink="true">
   <PrintedOutput
     CollapseMargins="true"
