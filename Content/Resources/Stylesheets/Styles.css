@@ -1,5 +1,7 @@
 /*<meta />*/
 
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
 :root
 {
 	--Brand: #076685;
@@ -375,7 +377,7 @@ p.footer-sub
 	margin-top: 14px;
 }
 
-@media tablet
+@media only screen and (max-width: 1279px)
 {
 	/* Home page topic */
 
@@ -439,7 +441,7 @@ p.footer-sub
 	}
 }
 
-@media mobile
+@media only screen and (max-width: 767px)
 {
 	/* Home page topic */
 
@@ -503,3 +505,4 @@ p.footer-sub
 		text-decoration: none;
 	}
 }
+
