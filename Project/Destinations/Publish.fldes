@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="MATRIX TEST"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\thubbard\Desktop\DELETE"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="file"></CatapultDestination>
